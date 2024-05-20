@@ -1,3 +1,7 @@
 # ds-test
 test for data science project
-sdfdsf
+
+# Directory Structure
+* src: R scripts
+* figs: generated plots
+* data: raw data
